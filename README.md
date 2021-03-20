@@ -1,1 +1,1 @@
-# labirint_webdriver_java
+# test_webdriver_java
